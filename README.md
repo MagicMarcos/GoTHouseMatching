@@ -1,6 +1,7 @@
 # Game of Thrones Matching Game
 
 <p> A simple JS matching card game </p>
+<p> Hosted at gothousematching.netlify.app </p>
 
 <h1>How It's Made:</h1>
 <p>Utilized: </p> 
