@@ -26,4 +26,4 @@
 <p>If something behaves unexpectedly, it is likely a bug. Create an issue and report it <a href="https://github.com/MagicMarcos/GoTHouseMatching/issues">here</a>  </p>
 
 ## Previews
-![main page] (https://res.cloudinary.com/codechella/image/upload/v1639340285/got-matching_m7ecdo.png)
+![main page](https://res.cloudinary.com/codechella/image/upload/v1639340285/got-matching_m7ecdo.png)
